@@ -6,4 +6,4 @@ Para completar la primera práctica obligatoria sobre gestión de tareas en meto
 **Incluid debajo el nombre de los miembros del grupo:**
 [Alejandro Fernández Pérez](https://github.com/afp1002).
 [Diego Delgado Lozano](https://github.com/ddl1001).
-[Diego González](https://github.com/dgr1003).
+[Diego González Román](https://github.com/dgr1003).
